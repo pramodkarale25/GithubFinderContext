@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/67f9df6f-fa2e-442a-9977-aa6cc6bb018a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/GithubFinderpmk25",
+    "appService.deploySubpath": "build"
+}
